@@ -1,4 +1,4 @@
-Webpage to shorten given URLS.
+Webpage to shorten given URLS made using nodejs,expressjs,mongodb,HTML,CSS and ejs templating.
 
 Instructions - 
 
